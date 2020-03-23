@@ -7,7 +7,4 @@ function happyHolidaysTo(Ketan){
   return (`Happy holidays, ${Ketan}!`)
 }
 
-happyCustomHolidayTo(holiday, name){
-return "Happy ${holiday}, ${name}!"
 
-}
