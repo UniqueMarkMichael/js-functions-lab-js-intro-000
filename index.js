@@ -7,7 +7,7 @@ function happyHolidaysTo(Ketan){
   return (`Happy holidays, ${Ketan}!`)
 }
 
-function happyCustomHolidayTo(Ketan){
-  return (`Happy ${Ketan}, ${Ketan}!`)
+function happyCustomHolidayTo(){
+  return (`Happy ${Halloween}, ${Ketan}!`)
 
 }
