@@ -8,6 +8,6 @@ function happyHolidaysTo(everyone){
 }
 
 happyCustomHolidayTo(holiday, name){
-return "Happy ${Independence Day}, ${you}!"
+return {"Happy ${Independence Day}, ${you}!"}
 
 }
