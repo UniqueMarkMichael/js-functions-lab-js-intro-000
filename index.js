@@ -9,7 +9,5 @@ function happyHolidaysTo(Ketan){
 
 happyCustomHolidayTo(holiday, name){
 return "Happy ${holiday}, ${name}!"
-  
+
 }
-
-
