@@ -8,6 +8,6 @@ function happyHolidaysTo(everyone){
 }
 
 happyCustomHolidayTo(New Year, everyone){
-return "Happy New Year, everyone!"
+return "Happy New Year, everyone!";
 
 }
