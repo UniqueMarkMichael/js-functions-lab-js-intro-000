@@ -7,7 +7,7 @@ function happyHolidaysTo(everyone){
   return (`Happy holidays, ${everyone}!`)
 }
 
-happyCustomHolidayTo(holiday, name){
-return {"Happy ${Independence Day}, ${you}!"}
+happyCustomHolidayTo(New Year, everyone){
+return "Happy New Year, everyone!"
 
 }
