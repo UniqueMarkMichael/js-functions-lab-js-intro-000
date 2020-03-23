@@ -8,7 +8,7 @@ function happyHolidaysTo(everyone){
 }
 
 
-function happyCustomHolidayTo(Independence Day, you){
-return ("Happy Independence Day, ${you!}";)
+function happyCustomHolidayTo(holiday, name){
+return ("Happy ${holiday}, ${name}!")
 
 }
