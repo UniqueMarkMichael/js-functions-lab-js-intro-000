@@ -4,5 +4,5 @@ return "Happy holidays!";
 }
 
 function happyHolidaysTo(Ketan){
-  console.log(`Happy holidays, ${Ketan}!`)
+  return (`Happy holidays, ${Ketan}!`)
 }
