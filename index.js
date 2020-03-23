@@ -6,3 +6,7 @@ return "Happy holidays!";
 function happyHolidaysTo(Ketan){
   return (`Happy holidays, ${Ketan}!`)
 }
+
+happyCustomHolidayTo(holiday, name)
+
+}
